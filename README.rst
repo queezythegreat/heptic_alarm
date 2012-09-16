@@ -10,3 +10,13 @@ and start the wakup process at the end of the REM cycle. This should increase th
 alarm.
 
 
+
+Features:
+
+* Vibration alarm
+* Sound alarm
+* Movement tracking (for REM cycle detection)
+* MicroSD dataloggin
+* Graphics display, with backlight
+* Rechargeable batteries (LiPo)
+
